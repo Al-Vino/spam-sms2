@@ -10,7 +10,7 @@ Download apk Termuxnya disini biar ngga eror🌟
 [•] pip install requests mechanize
 [•] pip install bs4 rich
 [•] pip install --upgrade pip
-[•] git clone https://github.com/Al-Vino/spam-sms.git
+[•] git clone https://github.com/Al-Vino/spam-sms2.git
 [•] ls ( L kecil )
 [•] cd spam-sms
 [•] python spaming2.py
