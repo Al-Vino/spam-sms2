@@ -1,5 +1,7 @@
 # PAKE DOANG NGGA FOLLOW, KONTOL LOO
-
+Logo🔥
+![Deskripsi Gambar](https://i.ibb.co/9nNFGT4/Screenshot-2022-05-23-14-07-46-894-com-termux.png)
+🐕 Gambar Hanya Pemanis Selebihnya Cobain Sendiri Ngab
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
@@ -12,7 +14,7 @@ Download apk Termuxnya disini biar ngga eror🌟
 [•] pip install --upgrade pip
 [•] git clone https://github.com/Al-Vino/spam-sms2.git
 [•] ls ( L kecil )
-[•] cd spam-sms
+[•] cd spam-sms2
 [•] python spaming2.py
 ```
 # MY SOCIAL MEDIA
